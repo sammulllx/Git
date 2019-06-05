@@ -54,23 +54,17 @@ Issue：事务卡片，发现代码bug，但目前没有成型代码，需要讨
 
 解决issue后进行关闭
 
- 
 
-实战操作：这里不做解释，实践出现问题建议返回第五集
-
- 
-
-![img](file:///C:\Users\杰\AppData\Local\Temp\ksohtml10428\wps1.jpg) 
 
  
 
 如何为开源项目做出贡献：
 
-\1. 新建issue
+1. 新建issue
 
 ​	提交使用问题或者建议或者想法
 
-\2. Pull request
+   2.Pull request
 
 ​	步骤：
 
@@ -82,23 +76,13 @@ Issue：事务卡片，发现代码bug，但目前没有成型代码，需要讨
 
 ​	4.	等待作者操作（合并）
 
-Git的安装和使用：
 
-​	目的：使用git管理github托管项目代码
-
-​	官方下载网址：<https://git-scm.com/download/win>
-
-​	安装：注意这里选择第一个；其余傻瓜式安装即可
-
-![img](file:///C:\Users\杰\AppData\Local\Temp\ksohtml10428\wps2.jpg) 
-
-​	检验是否安装成功：右击鼠标显示Git GUI Here和Git Bash Here
 
  
 
 # Git基本工作流程：
 
-![1559221141343](C:\Users\杰\AppData\Roaming\Typora\typora-user-images\1559221141343.png)
+![1559221141343](http://psm015czj.bkt.clouddn.com/1.png)
 
 # 	Git工作区域：
 
@@ -176,11 +160,13 @@ git config –-global user.email ’这里填写自己的用户名邮箱‘
 
 ###### 3.向仓库中添加文件
 
-![1559221359042](C:\Users\杰\AppData\Roaming\Typora\typora-user-images\1559221359042.png)
+
+
+![1559221359042](http://psm015czj.bkt.clouddn.com/2.png)
 
 # Git远程仓库
 
-​	使用目的：备份、实现代码共享集中化管理![img](file:///C:\Users\杰\AppData\Local\Temp\ksohtml10428\wps3.jpg)
+​	使用目的：备份、实现代码共享集中化管理![img](http://psm015czj.bkt.clouddn.com/3.jpg)
 
 # 如何将本地仓库同步到远程仓库中
 
@@ -304,7 +290,7 @@ To https://github.com/yezhaodan/-Git.git
 
 如果git push出现The requested URL returned error：403 Forbidden while accessing问题如何解决：
 
-![img](file:///C:\Users\杰\AppData\Local\Temp\ksohtml10428\wps4.jpg) 
+![img](http://psm015czj.bkt.clouddn.com/wps4.jpg) 
 
  
 
@@ -326,33 +312,39 @@ To https://github.com/yezhaodan/-Git.git
 
 测试：
 
-![img](file:///C:\Users\杰\AppData\Local\Temp\ksohtml10428\wps5.jpg) 
+![img](http://psm015czj.bkt.clouddn.com/wps5.jpg) 
 
 注意：github pages只支持静态网页
 
 ​	仓库里面只能是.html文件
 
-![1559221184373](C:\Users\杰\AppData\Roaming\Typora\typora-user-images\1559221184373.png)
+![1559221184373](http://psm015czj.bkt.clouddn.com/C:%5CUsers%5C%E6%9D%B0%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559221184373.png1559221184373.png)
 
  
 
 项目站点
 
-访问：
+访问： 
 
 ​	<https://用户名.github.io/仓库名>
 
 搭建步骤：
 
-​	1.	进入项目主页，点击settings
+ 1. 进入项目主页，点击settings
 
-​	2.	在settings页面，点击[Launch automatic page generator]来自动生成主题页面
+ 2. 在settings页面，点击[Launch automatic page generator]来自动生成主题页面
 
-​	3.	新建站点基础信息设置
+ 3. 新建站点基础信息设置
 
-​	4.	选择主题
+ 4. 选择主题
 
-​    5.    生成网页
+ 5. 生成网页
+
+    
+
+​	
+
+
 
 
 
